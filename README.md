@@ -46,24 +46,24 @@ View Project: http://charlotte3517.com
   Dynamic integration ensures up-to-date reviews and booking options.  
   Failed to fetch hotel details: If hotel details cannot be fetched, the system will display limited information while still allowing users to complete bookings.
 
-![img_1.png](img_1.png)
+![img_5.png](img_5.png)
 
     Screenshot: Input hotel order details interface.
 
-![img_4.png](img_4.png)
+![img_8.png](img_8.png)
 
     Screenshot: Input hotel order details interface (Displayed when hotel reviews cannot be fetched from the Google Places API).
 
 - **Fill in credit card details**: Simulate credit card input for booking purposes.  
   *Note: This feature is for demonstration only and does not implement security measures for sensitive data.*
 
-![img_2.png](img_2.png)
+![img_6.png](6.png)
 
     Screenshot: Input credit card interface.
 
 - **Booking Confirmation**: View the booking confirmation.
 
-![img_3.png](img_3.png)
+![img_7.png](img_7.png)
 
     Screenshot: Booking Confirmation interface.
 
