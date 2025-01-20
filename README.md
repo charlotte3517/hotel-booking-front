@@ -1,10 +1,8 @@
 # Hotel Booking Frontend
 
-This project is a frontend application for a hotel booking platform,  
-built using React and hosted on AWS ECS with Fargate.   
-It integrates with Amadeus API for hotel availability and Google Places API for reviews.  
-While currently connected to Amadeus's testing environment,  
-this platform is designed to support real-time booking data when connected to the production environment.
+Frontend for a hotel booking platform, built with React and hosted on AWS ECS.  
+Displays hotel availability and reviews by integrating data from backend APIs connected to Amadeus and Google Places.  
+Designed for a seamless user experience, including searching, booking, and viewing confirmations.
 
 
 View Project: http://charlotte3517.com
